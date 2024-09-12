@@ -22,3 +22,22 @@ git clone https://github.com/HelennLN77/PyDSSPln.git
 cd PyDSSPln
 ```
 ### Install conda 
+### Create a conda environment 
+```bash
+conda env create -f pydssp_ln.yml
+```
+### Activate  the conda environment 
+```bash
+conda activate pydssp_ln
+```
+## Run the script 
+```bash
+python PyDSSPln.py
+```
+## Output 
+The results will be saved to the specified output file. The output will include:
+
+Detected hydrogen bonds
+Detected alpha helices
+Detected beta sheets and their types
+Detected turns
