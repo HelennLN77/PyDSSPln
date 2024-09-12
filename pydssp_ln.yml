@@ -1,0 +1,25 @@
+name: pydssp_ln
+channels:
+  - conda-forge
+  - bioconda
+  - python
+dependencies:
+  - python
+  - biopython
+  - pandas 
+  - numpy
+  - scikit-learn
+  - optparse
+  - multiprocessing
+  - pip 
+  - pip :
+    - logging 
+
+
+  -
+
+
+
+
+
+  

@@ -1,0 +1,6 @@
+Processing file: /home/etudiant/Documents/M2BI/Programmation_avancee/projet_court_DSSP/data/1itv.pdb
+Total hydrogen bonds detected: 50
+Number of alpha helices detected: 0
+Number of beta sheets detected: 0
+Processing complete for: /home/etudiant/Documents/M2BI/Programmation_avancee/projet_court_DSSP/data/1itv.pdb
+
