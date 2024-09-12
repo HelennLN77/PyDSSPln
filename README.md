@@ -8,10 +8,10 @@ Beta Sheet Detection: Detects beta sheets and their type (parallel or antiparall
 Turn Detection: Identifies turns of size 3 residues.
 
 ## Requirements
-Python 3.x
-NumPy
-Biopython
-scikit-learn (for metrics)
+- Python 3.x
+- NumPy
+- Biopython
+- scikit-learn (for metrics)
 
 # Setup
 To install all the packages, you need to perform the folowwing steps :
