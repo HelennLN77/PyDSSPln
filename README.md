@@ -12,3 +12,13 @@ Python 3.x
 NumPy
 Biopython
 scikit-learn (for metrics)
+
+# Setup
+To install all the packages, you need to perform the folowwing steps :
+
+### Clone the repository 
+```bash
+git clone https://github.com/HelennLN77/PyDSSPln.git
+cd PyDSSPln
+```
+### Install conda 
