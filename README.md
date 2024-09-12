@@ -37,7 +37,7 @@ python PyDSSPln.py
 ## Output 
 The results will be saved to the specified output file. The output will include:
 
-Detected hydrogen bonds
-Detected alpha helices
-Detected beta sheets and their types
-Detected turns
+- Detected hydrogen bonds
+- Detected alpha helices
+- Detected beta sheets and their types
+- Detected turns
